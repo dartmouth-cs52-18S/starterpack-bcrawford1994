@@ -34,10 +34,10 @@
         "no-debugger": "warn"
     },
         "plugins": [
-        "react"
+          "react"
     ],
         "parserOptions": {
-        "ecmaFeatures": {
+          "ecmaFeatures": {
             "jsx": true,
             "sourceType": "module"
         }
